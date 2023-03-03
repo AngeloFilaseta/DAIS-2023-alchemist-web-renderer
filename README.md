@@ -15,6 +15,6 @@ task via [Gradle](https://gradle.org/).
 ```shell
 git clone https://github.com/AngeloFilaseta/DAIS-2023-alchemist-web-renderer.git
 cd DAIS-2023-alchemist-web-renderer
-./gradlew run # UNIX & Bash Rmulators
+./gradlew run # UNIX & Bash emulators
 gradlew.bat run # Windows
 ```

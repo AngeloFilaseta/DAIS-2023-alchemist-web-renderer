@@ -1,5 +1,5 @@
 # DAIS-2023-alchemist-web-renderer
-s
+
 ## Prerequisites
 This project requires a Java version (>=11) capable of executing Gradle.  
 If you have no Java installed, it is recommended to install the latest LTS Java from AdoptOpenJDK (unless a new LTS is

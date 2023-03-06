@@ -51,5 +51,5 @@ application {
 }
 
 tasks.named("run", JavaExec::class) {
-    args("-y", "./src/commonMain/resources/dodgeball.yml")
+    args("-v", "-y", "./src/commonMain/resources/dodgeball.yml")
 }
